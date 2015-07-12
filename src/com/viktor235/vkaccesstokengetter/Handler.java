@@ -1,4 +1,4 @@
-package vkaccesstokengetter;
+package com.viktor235.vkaccesstokengetter;
 
 import java.io.BufferedWriter;
 import java.io.FileNotFoundException;

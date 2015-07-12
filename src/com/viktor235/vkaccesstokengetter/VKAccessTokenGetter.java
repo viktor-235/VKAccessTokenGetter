@@ -1,4 +1,4 @@
-package vkaccesstokengetter;
+package com.viktor235.vkaccesstokengetter;
 
 import javafx.application.Application;
 import javafx.event.EventHandler;
